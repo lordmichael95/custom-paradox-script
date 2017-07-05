@@ -1,0 +1,67 @@
+This mod was created by lordmichael95 as a tool for EUIV modding. Have fun!
+
+Custom Paradox Script forum link: http://forum.paradoxplaza.com/forum/showthread.php?822703-Custom-Paradox-Script
+
+Custom Paradox Script v1.16 update 1	for 1.16.x	Released: 4/13/2016
+	-Added triggers: trade_league_embargoed_by, has_spy_network_in, has_spy_network_from, is_state, is_territory, num_of_states, num_of_territories, num_of_provinces_in_states, num_of_provinces_in_territories, corruption, yearly_corruption_increase, ai_attitude, is_permanent_claim, has_disaster_progress, triggers is_trade_league_leader, can_justify_trade_conflict 
+	-Added effects: add_corruption, add_disaster_progress
+	-Added Functions: can_add_seat_in_parliament, can_add_estate
+
+Custom Paradox Script v1.15 update 1	for 1.15.x	Released: 2/12/2016
+	-Added triggers: can_revoke, province_group, area_name, province_group_name, has_any_country_in_region_discovered_capital_region_of, has_custom_ideas, has_discovered_capital_region_of, has_discovered_region, and island
+	-Added effects: remove_loot, convert_female_ruler_to_general, convert_female_heir_to_general, dissolve_parliament, and reinstate_parliament
+	-Functions now get highlighted purple
+	-Added Functions: can_increase_autonomy, can_decrease_autonomy, can_westernise, can_claim_defender_of_faith, can_change_national_focus, can_move_capital, can_move_trade_port, can_order_assault, can_order_force_march, can_scorch_earth, can_garrison_sorties, can_seize_colony, can_improve_tax, can_improve_production, can_improve_manpower, can_make_core, can_harsh_treatment, can_reduce_war_exhaustion, can_change_culture and can_burn_colony
+	
+Custom Paradox Script v1.14 update 2	for 1.14.x	Released: 12/27/2015
+	-Fixed incorrectly named trigger: horde_unity_or_legitimacy is now legitimacy_or_horde_unity
+	-Added triggers: diplomatic_reputation, has_matching_religion, nation_designer_points, num_of_powerful_estates, num_of_trusted_allies, secondary_religion, area, has_estate, highest_value_trade_node, province_group, superregion, area_name, province_group_name, and super_region_name
+	-Added effect: remove_estate, estate, set_estate
+	-Outdated code added: culture_group_union, reduced_native_attacks
+
+Custom Paradox Script v1.14 update 1	for 1.14.x	Released: 12/4/2015
+	-Added triggers: heir_adm, heir_dip, heir_mil, horde_unity, horde_unity_or_legitimacy, estate_influence, estate_loyalty, has_estate_loyalty_modifier, has_estate_influence_modifier, has_estate, estate_territory
+	-Added effect: change_heir_adm, change_heir_dip, change_heir_mil, add_permanent_claim, add_horde_unity, change_to_secondary_religion, add_estate_loyalty, add_estate_influence_modifier, create_independent_estate, add_estate_loyalty_modifier, create_independent_estate_from_religion
+
+Custom Paradox Script v1.13 update 1	for 1.13.x	Released: 9/9/2015
+	-Added effect: on_issue_taken effect for parliament issues.
+	-Outdated code added: global_trade_income_modifier
+
+Custom Paradox Script v1.12 update 3	for 1.12.x	Released: 6/17/2015
+	-Added scopes: any_empty_neighbor_province, sea_zone
+	-Added triggers: uses_doom, doom
+	-Added effect: collapse_nation
+
+Custom Paradox Script v1.12 update 2	for 1.12.x	Released: 6/14/2015
+	-Added missing trigger: is_religion_reformed
+	-Added missing effect: add_authority
+
+Custom Paradox Script v1.12 update 1	for 1.12.x	Released: 6/12/2015
+	-triggers added: average_unrest, church_power, current_debate, current_size_of_parliament, devotion, employed_advisor, federation_size, government_rank, has_active_debate, has_church_aspect, has_divert_trade , has_embargo_rivals , has_parliament, has_promote_investments , has_scutage, has_send_officers , has_subsidize_armies , has_support_loyalists , is_federation_leader, is_in_deficit, is_overseas_subject, karma, num_of_aspects, num_of_rebel_controlled_provinces, num_of_rebel_armies, num_of_war_reparations, subsidised_percent_amount, total_development, base_manpower, base_production, development, fort_level, has_heir_leader_from, has_influencing_fort, has_ruler_leader_from, has_seat_in_parliament, is_backing_current_issue, num_free_building_slots, num_of_units_in_province, num_of_times_improved, is_previous_papal_controller trigger similar to is_papal_controller 
+	-effects added: add_church_aspect, add_church_power, add_devotion, add_historical_friend, add_historical_rival, add_karma, back_current_issue,create_march, define_leader_to_ruler, excommunicate, exile_heir_as, exile_ruler_as, remove_church_aspect , remove_historical_friend, remove_historical_rival, set_government_rank, set_heir, set_in_empire , set_karma, set_ruler, add_base_manpower, add_base_production, add_culture_construction, add_scaled_local_adm_power, add_scaled_local_dip_power, add_scaled_local_mil_power, kill_units, send_missionary, set_local_autonomy, set_seat_in_parliament
+	-Outdated code added: build_power_cost modifier
+
+Custom Paradox Script v1.11 update 1	for 1.11.x	Released: 3/14/2015
+	-triggers added: normal_or_historical_nations, normal_province_values
+	-effects added: break_marriage, mercenary_infantry, mercenary_cavalry, change_graphical_culture, add_building_construction, add_core_construction, 
+	-Outdated code added: colonial_liberty_desire, merchant_present_inland, merchant_steering_to_inland, and is_playing_historical_setup
+	-Also added a link to forum in the changelog, to make it easier to find updates (in the event you haven't bookmarked it) 
+
+Custom Paradox Script v1.10 update 1	for 1.10.x	Released: 2/27/2015
+	-triggers added: has_hostile_reformation_center,  has_friendly_reformation_center, has_doom, is_variable_equal, has_reformed_religion, num_of_ports_blockading, is_playing_historical_setup
+	-effects added:  add_doom , release_all_subjects, and add_disaster_modifier
+	-Outdated code now is now yellow with a black background color (like you would see on caution signs)
+
+Custom Paradox Script v1.9 update 2	for 1.9.x		Released: 1/2/2015
+	-triggers added: has_disaster
+	-effects added: win
+
+Custom Paradox Script v1.9 update 1	for 1.9.x		Released: 12/10/2014
+	-triggers added: average_autonomy, average_home_autonomy, num_ships_privateering, has_changed_nation, advisor_exists, infantry_in_province, cavalry_in_province, artillery_in_province, unrest, and num_of_religion
+	-effects added: end_disaster, 
+	
+Custom Paradox Script v1.8 update 2	for 1.8.x	
+	-bug fixes for outdated code
+
+Custom Paradox Script v1.8 update 1	for 1.8.x	
+	-Public release
