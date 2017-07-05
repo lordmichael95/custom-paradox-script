@@ -1,0 +1,11 @@
+Installation Instructions:
+
+1. Download the attached XML file
+2. In Notepad++ click on the little lightning symbol in the top bar (User-Defined Dialogue...)
+3. Click import and find the XML file
+4. Select the "Paradox Script Syntax" as the user language
+5. Click Save As... and name it something like Paradox Script
+6. Open an event file
+7. Click Language -> Paradox Script
+
+Now you get to see the highlighted syntax.
